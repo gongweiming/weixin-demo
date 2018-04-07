@@ -78,7 +78,7 @@ public class WeiXinController {
 
     @RequestMapping("/callBack")
     public String callBack(){
-        System.out.println("callBackcallBackcallBack...");
+        System.out.println("callBackcallBackcallBack2222...");
         System.out.println("callBackcallBackcallBack...");
         System.out.println("callBackcallBackcallBack...");
         System.out.println("callBackcallBackcallBack...");
