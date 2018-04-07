@@ -80,6 +80,8 @@ public class WeiXinController {
     public String callBack(){
         System.out.println("callBackcallBackcallBack...");
         System.out.println("callBackcallBackcallBack...");
+        System.out.println("callBackcallBackcallBack...");
+        System.out.println("callBackcallBackcallBack...");
         return "callBack";
     }
 }
